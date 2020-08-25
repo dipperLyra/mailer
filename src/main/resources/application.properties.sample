@@ -1,0 +1,4 @@
+server.port=<yourport>
+
+## Mail properties
+spring.sendgrid.api-key=<youapikey>
